@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ibrahim-Hillowle
 - 👀 I’m interested in web development and App development.
-- 🌱 I’m currently learning Laravel, python,React-native, wordpress,
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python,wordpress,
 - 📫 How to reach me ibrahimhillowle7@gmail.com
 
 <!---
